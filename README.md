@@ -20,23 +20,25 @@ World's largest hackathon.
         ├── main.tsx
         ├── vite-env.d.ts
     ├── .gitignore
-    ├──components.json
-    ├──eslint.config.js
-    ├──index.html
-    ├──package-lock.json
-    ├──package.json
-    ├──postcss.config.js
-    ├──tailwind.config.js
-    ├──tsconfig.app.json
-    ├──tsconfig.json
-    ├──tsconfig.node.json
-    ├──vite.config.ts
+    ├── components.json
+    ├── eslint.config.js
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json
+    ├── postcss.config.js
+    ├── tailwind.config.js
+    ├── tsconfig.app.json
+    ├── tsconfig.json
+    ├── tsconfig.node.json
+    ├── vite.config.ts
 
 ├── backend/
     ├── main.py
     ├── flow1_memegen.py
     ├── flow2_generate.py
     ├── flow3_publish.py
+    ├── meme_trends.json
+    ├── requirements.txt
     └── utils/
         ├── audio.py
         ├── video.py

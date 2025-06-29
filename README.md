@@ -1,4 +1,5 @@
-# Team Muse
+# Team Muse - Hackathon 2025 (ElevenLabs x LFH)
+World's largest hackathon.
 
 ## Contributors
 - Avinash Mallick

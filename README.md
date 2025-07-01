@@ -47,5 +47,7 @@ World's largest hackathon.
 ## YouTube Link
 Client demo: https://youtu.be/TDu6MffdqcQ
 
-## DevPost
-[Our submission](https://devpost.com/software/muse-l40oi2)
+## Devpost
+Our submission: https://devpost.com/software/muse-l40oi2
+
+#### [Tribute to the experience](https://www.linkedin.com/posts/shivang-chaudhary-2235831b5_hackathon-omiai-londonfounderhouse-activity-7345446577974468608-1iM3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIYqXsB5HGqzeF8kn0xGOcU1dMfK0sHVHA)

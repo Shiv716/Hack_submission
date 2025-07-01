@@ -1,4 +1,4 @@
-# Team Muse - Hackathon 2025 (11ElevenLabs x LFH)
+# Team Muse - Hackathon 2025 (Bolt.new, 11ElevenLabs x LFH)
 World's largest hackathon.
 
 ## Contributors
@@ -46,3 +46,6 @@ World's largest hackathon.
 
 ## YouTube Link
 Client demo: https://youtu.be/TDu6MffdqcQ
+
+## DevPost
+[Our submission](https://devpost.com/software/muse-l40oi2)
